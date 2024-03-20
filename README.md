@@ -20,7 +20,7 @@
 <a href="https://wellfound.com/u/zaineb-marediya">![AngelList](https://img.shields.io/badge/WellFound-000000?style=for-the-badge&logo=angellist&logoColor=white)</a>
 <br /><br />
 
-[![Ryan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zmare&hide=contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Zaineb's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zmare&hide=contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zmare&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zmare&theme=dark)](https://git.io/streak-stats)
 
