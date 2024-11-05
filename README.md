@@ -10,7 +10,7 @@
 
 🏢 My professional experience includes web development and implementation management in healthcare technology.
 
-👉 Checkout my [Personal Site](https://zmare.github.io/)!
+👉 Checkout my [Personal Site](https://zainebmarediya.com/)!
 
 📫 Email: zmarediya@outlook.com
 
